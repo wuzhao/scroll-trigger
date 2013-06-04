@@ -4,7 +4,7 @@
 
 这是一个单例。当页面元素进入某个区域内可触发指定的方法。运行该触发器时，位于显示区域的元素对应的方法会被触发。使用记录式的方法来进行管理，主要用于延迟显示页面内容，以减少页面初始化时的加载内容。运行于 [AraleJS](https://github.com/aralejs) 框架。
 
-[API 文档](http://arale.alizoo.com/scroll-trigger/) | [Demo 示例](http://arale.alizoo.com/scroll-trigger/examples/)
+[Demo 示例](http://arale.alizoo.com/scroll-trigger/examples/)
 
 ----
 
